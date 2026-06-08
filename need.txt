@@ -1,0 +1,21 @@
+1.First install node.js
+create a folder ichat<node_modules
+2.Open folder in node js
+3.Npm init
+4.Install socket.io(npm install socket.io)
+5.Make two file one for sender 
+6.Second for receiver or reply
+// needProcessor.js
+// Ignore messages sent by the system processors
+// Regex to capture anything after "i need" or "we need"
+7.Sender app.js(ADD ,MODULE 1: Standard Greeting Bot Logic)
+(ADD ,MODULE 2: Custom "Need" Extraction Processor)
+8.Receiver reply.js
+
+link both
+9.Make a ui using html,css ,js
+ 10.Run main file using node app.js
+ 11.Boom !run http://localhost:3000(as we setted  port in app.js)
+ You just have to tag  'I need' keyword....
+ My bot will resolve your need..
+ 
